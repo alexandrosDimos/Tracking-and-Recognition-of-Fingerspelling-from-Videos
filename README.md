@@ -4,6 +4,7 @@ This repository contains the code developed for my Thesis project. In this Thesi
 
 - [Project Description](#project-description)
 - [Features](#features)
+- [Thsesis Paper](#thesis-paper)
 
 
 ## Project Description
@@ -47,5 +48,7 @@ The final part of our project can be separated in:
   - Greedy Decoder
   - Beam search decoder
     
-
+## Thesis paper
+Anyone looking for a more detailed and deeper understanding of the project can take a look:
+https://www.e-ce.uth.gr/wp-content/uploads/formidable/59/Dimos_alexandros.pdf
 
