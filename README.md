@@ -46,7 +46,7 @@ The final part of our project can be separated in:
   - Bidirectional RNN
 - Decoding the output of the NN architetcure. For that we utilized:
   - Greedy Decoder
-  - Beam search decoder
+  - Beam search decoder. The beam search algorithm we used and experimented on can be found here https://github.com/githubharald/CTCDecoder.
     
 ## Thesis paper
 Anyone looking for a more detailed and deeper understanding of the project can take a look:
