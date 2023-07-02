@@ -47,7 +47,10 @@ The final part of our project can be separated in:
 - Decoding the output of the NN architetcure. For that we utilized:
   - Greedy Decoder
   - Beam search decoder. The beam search algorithm we used and experimented on can be found here https://github.com/githubharald/CTCDecoder.
-- Evaluating the results. For that purpose we used levenshtein distance to measure the difference between the real and the predicted words. The algorithm we used can also be found here https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch/. 
+- Evaluating the results. For that purpose we used levenshtein distance to measure the difference between the real and the predicted words. The algorithm we used can also be found here https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch/.
+
+## Diclaimer
+All of the work here was done locally on my machine, so every path written should be changed before it can be reused. I know my code and workflow can be futher optimized for better performance, but the purpose of this project was to develop neural networks for a specific purpose, so more attention was given to the final results.
     
 ## Thesis paper
 Anyone looking for a more detailed and deeper understanding of the project can take a look:
