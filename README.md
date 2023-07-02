@@ -53,6 +53,6 @@ The final part of our project can be separated in:
 All of the work here was done locally on my machine, so every path written should be changed before it can be reused. I know my code and workflow can be futher optimized for better performance, but the purpose of this project was to develop neural networks for a specific purpose, so more attention was given to the final results.
     
 ## Thesis paper
-Anyone looking for a more detailed and deeper understanding of the project can take a look:
+Anyone looking for a more detailed and deeper understanding of the project as well as the final results and conclusions of my work can take a look:
 https://www.e-ce.uth.gr/wp-content/uploads/formidable/59/Dimos_alexandros.pdf
 
